@@ -1,0 +1,25 @@
+{
+  "name": "canvnail",
+  "version": "0.13.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test tests/*.test.js",
+    "setup:background": "node scripts/setup-background.mjs",
+    "setup:browser": "playwright install chromium",
+    "test:browser": "node scripts/test-browser.mjs",
+    "check:publication": "node scripts/check-publication.mjs"
+  },
+  "dependencies": {
+    "onnxruntime-web": "1.22.0",
+    "pdf-lib": "1.17.1"
+  },
+  "devDependencies": {
+    "playwright": "1.64.1"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=24 <25"
+  }
+}

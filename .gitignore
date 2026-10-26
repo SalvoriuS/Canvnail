@@ -1,0 +1,29 @@
+# Dependencies and downloaded model weights (installed by the setup commands).
+node_modules/
+models/*.onnx
+
+# Local output, personal projects, credentials and temporary files.
+tests/artifacts/
+*.log
+*.pid
+*.canvnail.json
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.pfx
+*.p12
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Defense in depth if local research/browser files are copied here accidentally.
+.rea-browser-profile/
+.rea-downloads/
+research/
+rea/
+
+# Legacy third-party test photograph; not distributed.
+tests/fixtures/u2net-horse.jpg

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="770" height="595" viewBox="0 0 770 595">
+  <!-- Original procedural test illustration, distributed under Canvnail's MIT license. -->
+  <rect id="background" width="770" height="595" fill="#b5d4ba"/>
+  <g stroke="#503126" stroke-width="6">
+    <ellipse cx="385" cy="364" rx="128" ry="151" fill="#a96739"/>
+    <ellipse cx="252" cy="345" rx="48" ry="102" fill="#a96739" transform="rotate(22 252 345)"/>
+    <ellipse cx="518" cy="345" rx="48" ry="102" fill="#a96739" transform="rotate(-22 518 345)"/>
+    <ellipse cx="299" cy="493" rx="66" ry="62" fill="#a96739"/>
+    <ellipse cx="471" cy="493" rx="66" ry="62" fill="#a96739"/>
+    <circle cx="290" cy="117" r="51" fill="#a96739"/>
+    <circle cx="480" cy="117" r="51" fill="#a96739"/>
+    <circle cx="290" cy="117" r="28" fill="#e5be8d" stroke="none"/>
+    <circle cx="480" cy="117" r="28" fill="#e5be8d" stroke="none"/>
+    <ellipse cx="385" cy="200" rx="123" ry="111" fill="#a96739"/>
+    <ellipse cx="385" cy="377" rx="81" ry="103" fill="#e5be8d" stroke="none"/>
+    <ellipse cx="385" cy="237" rx="63" ry="42" fill="#e5be8d" stroke="none"/>
+    <path d="M371 223 Q385 212 399 223 Q400 238 385 243 Q370 238 371 223Z" fill="#30231d"/>
+    <path d="M385 244v13m-23-4q23 28 46 0" fill="none" stroke-linecap="round"/>
+    <circle cx="339" cy="186" r="12" fill="#231d1a" stroke="none"/>
+    <circle cx="431" cy="186" r="12" fill="#231d1a" stroke="none"/>
+    <circle cx="335" cy="182" r="4" fill="white" stroke="none"/>
+    <circle cx="427" cy="182" r="4" fill="white" stroke="none"/>
+  </g>
+</svg>
